@@ -1,0 +1,125 @@
+# Advanced Prompt Library for Business Use Cases
+
+## 1. Customer Support
+
+### Zero-shot Prompt
+You are a customer support assistant. Respond politely and professionally to the customer's issue and provide a clear solution.
+
+### Few-shot Prompt
+
+**Example 1**
+Customer: My order has not arrived yet.
+Assistant: I’m sorry for the delay. Please share your order ID so I can check the status.
+
+**Example 2**
+Customer: I received a damaged product.
+Assistant: I apologize for the inconvenience. Please upload a photo of the product, and we will arrange a replacement.
+
+**Task**
+Customer: I want to cancel my order.
+Assistant:
+
+---
+
+## 2. Content Creation
+
+### Zero-shot Prompt
+Write a 150-word blog about the benefits of Artificial Intelligence in education.
+
+### Few-shot Prompt
+
+**Example 1**
+Topic: Cloud Computing
+Output: Cloud computing allows users to store and access data online securely.
+
+**Example 2**
+Topic: Machine Learning
+Output: Machine learning enables computers to learn from data and improve predictions.
+
+**Task**
+Topic: Generative AI
+Output:
+
+---
+
+## 3. Technical Debugging
+
+### Zero-shot Prompt
+Analyze the following Python code, identify the error, and provide the corrected version with an explanation.
+
+### Few-shot Prompt
+
+**Example 1**
+Input:
+print("Hello"
+Output:
+SyntaxError: Missing closing parenthesis.
+Correct Code:
+print("Hello")
+
+**Example 2**
+Input:
+x = 10
+print(y)
+Output:
+NameError because 'y' is not defined.
+
+**Task**
+Input:
+numbers = [1,2,3]
+print(numbers[5])
+Output:
+
+---
+
+## 4. Email Writing
+
+### Zero-shot Prompt
+Write a professional email requesting leave for two days due to a medical emergency.
+
+### Few-shot Prompt
+
+**Example 1**
+Purpose: Meeting Request
+Output:
+Dear Sir,
+I would like to request a meeting regarding the project discussion.
+
+**Example 2**
+Purpose: Thank You
+Output:
+Dear Team,
+Thank you for your support and guidance throughout the project.
+
+**Task**
+Purpose: Internship Completion
+Output:
+
+---
+
+## 5. Marketing
+
+### Zero-shot Prompt
+Write an engaging social media advertisement promoting a new AI-powered chatbot.
+
+### Few-shot Prompt
+
+**Example 1**
+Product: Smartwatch
+Output:
+Stay connected and track your fitness with our latest smartwatch.
+
+**Example 2**
+Product: Online Course
+Output:
+Boost your career with our industry-ready online certification course.
+
+**Task**
+Product: AI Resume Builder
+Output:
+
+---
+
+# Conclusion
+
+This prompt library demonstrates the use of Zero-shot and Few-shot prompting for different business applications including Customer Support, Content Creation, Technical Debugging, Email Writing, and Marketing.
