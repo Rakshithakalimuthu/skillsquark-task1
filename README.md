@@ -1,1 +1,0 @@
-# skillsquark-task1
